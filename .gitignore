@@ -2,3 +2,4 @@ test.md
 .venv/
 *.egg-info
 .vscode
+__pycache__
